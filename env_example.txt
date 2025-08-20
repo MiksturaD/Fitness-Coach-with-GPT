@@ -1,0 +1,7 @@
+# Telegram Bot Token
+# Получи токен у @BotFather в Telegram
+TELEGRAM_TOKEN=your_telegram_bot_token_here
+
+# OpenRouter API Key
+# Получи API ключ на https://openrouter.ai/
+OPENROUTER_API_KEY=your_openrouter_api_key_here
